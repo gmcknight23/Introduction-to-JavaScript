@@ -200,7 +200,7 @@ Using the feet function below do the following:
 */
 
 function feet(cm){
-  return cm / 30.38;
+  return cm / 30.48;
 }
 
 console.log('5: ', feet(160))
