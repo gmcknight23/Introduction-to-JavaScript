@@ -193,7 +193,11 @@ function game(user, computer){
 
 }
 
-console.lot('task 4: ', game('paper', computer))
+console.log('task 4: ', game('paper', computer));
+
+
+
+
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
