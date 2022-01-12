@@ -61,7 +61,9 @@ Do the following:
    HINT: look up the Number method
 */
 
+let year = '1999';
 
+console.log('1 b: ', Number(year));
 
 
 /*
@@ -133,7 +135,7 @@ function hungryDog(weight, age){
     return weight * 0.02;
   }else if(age < 1 && age >= 0.583){
     return weight * 0.04;
-  }else if(age < 0.583 && age >= 0.33){
+  }else if(age < 0.583 && age >= 0.333){
     return weight * 0.05;
   }else if(age < 0.333){
     return weight * 0.1;
